@@ -1,5 +1,5 @@
 # 🚀 Pancakeswap BSC Sniper Bot 🚀
-
+ 
 ![Sniper](https://github.com/ETH-PROFITO/BSC_Sniper_Savanna_Sniper_2_Bot_FullVersion/blob/main/Savanna.png)  
 
 ## Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, Please note the license conditions!
