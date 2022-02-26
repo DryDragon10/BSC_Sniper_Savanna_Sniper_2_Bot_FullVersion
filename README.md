@@ -8,7 +8,7 @@ Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, Please n
 BOT is free-to-use
 
 ## The second Binance Smart Chain sniper bot with Honeypot checker!  
-![Sniper](Screenshot.png)  
+
 
 # Infos
 This Tool only buys/sells with/to BNB but use Multi Hops to get the best Output!
