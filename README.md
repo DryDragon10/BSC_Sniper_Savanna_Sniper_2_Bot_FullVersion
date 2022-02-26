@@ -1,27 +1,19 @@
 # 🚀 Pancakeswap BSC Sniper Bot 🚀
-![TradingTigers](https://camo.githubusercontent.com/903e37c7728f19549eb56fcf25babe248bc6dea2d50fea0292c497b17a70eed9/68747470733a2f2f646f63732e70616e63616b65737761702e66696e616e63652f7e2f66696c65732f76302f622f676974626f6f6b2d32383432372e61707073706f742e636f6d2f6f2f6173736574732532462d4d48524558374448636c6a625935496b6a674a2532462d4d6246535033324b7079584c756a62453646442532462d4d62465355486f7351696f455f68384f674462253246646f63732532306d61737468656164253230283231292e706e673f616c743d6d6564696126746f6b656e3d33346134346532302d313731662d343364372d396336322d613835633231333061373431)  
+
+![Sniper](https://github.com/ETH-PROFITO/BSC_Sniper_Savanna_Sniper_2_Bot_FullVersion/blob/main/Savanna.png)  
+
 Web3 Pancakeswap Sniper && Take Profit/StopLose bot written in python3, Please note the license conditions!
 ## our thanks:
 
-BOT is free-to-use, but you are welcome to appreciate my work ☺️
-
-ETH - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
-
-BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
-
-Thank's to Empaticgame! spend: 0,8 BNB ❤️
+BOT is free-to-use
 
 ## The second Binance Smart Chain sniper bot with Honeypot checker!  
 ![Sniper](Screenshot.png)  
+
 # Infos
 This Tool only buys/sells with/to BNB but use Multi Hops to get the best Output!
 Attention, You pay **[0.1% Tax]** on your swap amount!
 
-### Support Us&You by Buying [SavannahCat Token](https://bscscan.com/token/0x6989e34b435798f401d4ffc8987cdb8fa4d61766?a=0x0a4a569cfa700fc2a1d54974712716e537c169ff)  
-![Sniper](https://github.com/ETH-PROFITO/BSC_Sniper_Savanna_Sniper_2_Bot_FullVersion/blob/main/Savanna.png)  
-
-# Download
-### If you are not familiar with Python please have a look at [Releases]
 
 # Install
 **First of all, you need install Python3+**
